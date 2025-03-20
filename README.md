@@ -1,8 +1,8 @@
-# Mini Curso Básico Python
+# Mini Curso Básico Python 🤖
 
 Este repositório contém o código e os exemplos apresentados no Mini Curso Básico de Python. O objetivo do curso é introduzir conceitos básicos de programação com Python, utilizando bibliotecas como `pandas` e `plotly` para análise de dados e visualização.
 
-## Conteúdo
+## Conteúdo 💻
 
 - **Passo 0**: Entender o desafio que você quer resolver
 - **Passo 1**: Percorrer todos os arquivos da pasta base de dados (pasta `vendas`)
@@ -12,7 +12,7 @@ Este repositório contém o código e os exemplos apresentados no Mini Curso Bá
 - **Passo 5**: Calcular o produto que mais faturou (em faturamento)
 - **Passo 6**: Calcular loja/cidade que mais vendeu (em faturamento) e criar um gráfico/dashboard
 
-## Requisitos
+## Requisitos 🚀
 
 Para executar o código, você precisa ter as seguintes bibliotecas instaladas:
 
@@ -23,12 +23,12 @@ Você pode instalá-las utilizando o comando:
 
 - `pip install pandas plotly`
 
-## Estrutura do Projeto
+## Estrutura do Projeto 🛸
 
 - `main.py`: Script principal que realiza todas as etapas descritas no conteúdo.
 - `vendas/`: Pasta contendo os arquivos de dados de vendas.
 
-## Resultado
+## Resultado 🎯
 
 - O produto mais vendido (em quantidade) será exibido no console.
 - O produto que mais faturou (em faturamento) será exibido no console.
