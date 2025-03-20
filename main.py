@@ -34,8 +34,6 @@ tabela_faturamento = tabela_faturamento[['Faturamento']].sort_values(by='Faturam
 
 print(tabela_faturamento)
 
-
-
 # Passo 6 - Calcular loja/cidade que mais vendeu (em faturamento) - criar um gráfico/dashboard
 tabela_loja = tabela_total.groupby('Loja').sum()
 tabela_loja = tabela_loja[['Faturamento']].sort_values(by='Faturamento', ascending=False)
